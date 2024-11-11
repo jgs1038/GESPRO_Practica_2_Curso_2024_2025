@@ -36,11 +36,38 @@ Incluid debajo el nombre de los miembros del grupo: Lydia Blanco Ruiz, Javier Ga
 Una vez realizados los pasos anteriores, ya deberíamos ser capaces de trabajar en el proyecto.   
 
  
-## Filtro por Epics, US y Tasks en la columna de New Issues:
+## Filtro por Epics, US y Tasks en la columna de New Issues
 
-## Tareas de 1er Release en el Sprint Backlog:
+### Se accede a la columna de issues en Github   
+> Dado que ya hemos movido los issues a la columna de product backlog, haremos el filtro desde Github en lugar de Zenhub.   
 
-## Tareas de 1er Release en progreso en diferentes columnas ( solo se mueven las type: TASKS):
+<img width="960" alt="firefox_Y7yChIRXsl" src="https://github.com/user-attachments/assets/97413a2a-4fbd-4162-bbda-22bfe52d24c0">
+
+
+### Seleccionamos como filtro Type: Epic, Type: User Story y Type: Task  
+
+<img width="960" alt="firefox_5rrPtQEw8V" src="https://github.com/user-attachments/assets/9c39ecaf-0258-493b-8ead-12d6ad3b14e9">
+  
+<img width="960" alt="2mUsQOdfxV" src="https://github.com/user-attachments/assets/9087447e-4844-4433-aa0d-bec763600dd3">
+
+<img width="960" alt="bJnq4LltLl" src="https://github.com/user-attachments/assets/3a13a9ac-a52b-42ea-b5a9-3fd9db590bde">
+
+
+### En Zenhub el filtro se haría de la siguiente manera   
+
+<img width="960" alt="firefox_RaU4DWyFHg" src="https://github.com/user-attachments/assets/16efe937-cc6d-4932-81b1-9bd27a6af1a9">
+ 
+## Tareas de 1er Release en el Sprint Backlog
+
+### Filtrando por la milestone de la Release 1, podemos ver que encontramos todas las tareas en la columna de Sprint Backlog   
+
+<img width="960" alt="firefox_mLitVnygXc" src="https://github.com/user-attachments/assets/150f0720-0ea6-41eb-a3e0-b627c8d1199f">
+
+## Tareas de 1er Release en progreso en diferentes columnas
+
+### Las distintas tareas de la Release 1 en las diferentes columnas de progreso   
+
+<img width="960" alt="firefox_KAwKQI8uoC" src="https://github.com/user-attachments/assets/8b5425fd-29f8-4f80-898c-ea5ef01192bb">
 
 ## Cierre de 1er Release:
 
