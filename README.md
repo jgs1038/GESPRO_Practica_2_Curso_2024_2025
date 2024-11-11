@@ -118,3 +118,11 @@ Con este filtado el progreso de la segunda Realase quedaría así:
 ![image](https://github.com/user-attachments/assets/2236d88e-d7a8-4172-9f60-5310c8d8ad62)
 
 ## Imagen de conversación en dos tareas:
+
+Hemos incluido 3 comentarios en tareas de la Realese 1, 2 comentarios en la Realese 2 y 2 comenatrios en la Realese 3.
+Las tarea de Realese 1 con comentarios son: View transaction history, Transfer money, Get account details.
+Las tareas de Realase 2 con comentarios son: Set up automatic payment, Manage from Android Device. 
+Las tareas de Realase 3 con comentarios son: Custom notifications, Export information to PDF.
+Vamos a mostrar dos ejemplo de estas conversaciones:
+
+
