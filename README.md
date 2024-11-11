@@ -94,11 +94,13 @@ Una vez realizados los pasos anteriores, ya deberíamos ser capaces de trabajar 
 
 ### Movemos todas las tareas de la Release 2 a la columna de Sprint Backlog
 ![image](https://github.com/user-attachments/assets/a4dc9427-7191-4251-b4cb-77901ec12d2c)
-Como vemos en la imagen las 13 tareas de la Realase 2 estan en el apartado Sprint Backlog,
+Como vemos en la imagen las 13 tareas de la Realase 2 estan en el apartado Sprint Backlog.
 
 
 ## Tareas de la 2da Release en progreso y filtradas por algún topic:
 Vamos a realizar el filtado por el topic setup, ya que es uno de los topic más utilizados en el Realase 2.
+![image](https://github.com/user-attachments/assets/5b4aeae2-1f86-4648-993a-5983be2eed63)
+Para que se vea mejor también, vamos a seleccionar el filtrado por Realase 2.
 
 ![image](https://github.com/user-attachments/assets/2236d88e-d7a8-4172-9f60-5310c8d8ad62)
 
