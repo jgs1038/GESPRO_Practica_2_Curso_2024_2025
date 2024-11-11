@@ -93,7 +93,7 @@ Una vez realizados los pasos anteriores, ya deberíamos ser capaces de trabajar 
 ## Comienzo de la 2da Release
 
 ### Movemos todas las tareas de la Release 2 a la columna de Sprint Backlog
-![image](https://github.com/user-attachments/assets/37131008-4de1-40c1-bd59-170b015c362d)
+![image](https://github.com/user-attachments/assets/a4dc9427-7191-4251-b4cb-77901ec12d2c)
 Como vemos en la imagen las 13 tareas de la Realase 2 estan en el apartado Sprint Backlog,
 
 
