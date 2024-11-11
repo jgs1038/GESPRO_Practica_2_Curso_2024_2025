@@ -69,9 +69,30 @@ Una vez realizados los pasos anteriores, ya deberíamos ser capaces de trabajar 
 
 <img width="960" alt="firefox_KAwKQI8uoC" src="https://github.com/user-attachments/assets/8b5425fd-29f8-4f80-898c-ea5ef01192bb">
 
-## Cierre de 1er Release:
+## Cierre de 1er Release
 
-## Comienzo de la 2da Release:
+### Todas las tareas de la Release 1 se colocan en la columna Done
+
+![imagen](https://github.com/user-attachments/assets/64531f75-0737-41dd-8b32-45ce8462dbc0)
+
+### Damos por concluidas todas las tareas de la Release 1
+
+![imagen](https://github.com/user-attachments/assets/b26e5852-6814-4631-b9a9-079617161706)
+
+### Vamos a la sección Milestones de la parte de las issues en Github
+
+![imagen](https://github.com/user-attachments/assets/823cba5f-aecb-4ade-8586-f30b5c89e56e)
+
+### Damos por concluida la milestone marcando esta como completada
+
+![imagen](https://github.com/user-attachments/assets/638002d1-47ab-49ab-9688-14fd108485ba)
+
+![imagen](https://github.com/user-attachments/assets/873e2245-2f33-4b2c-96da-b451f79dbdf4)
+
+
+## Comienzo de la 2da Release
+
+### Movemos todas las tareas de la Release 2 a la columna de Sprint Backlog
 
 ## Tareas de la 2da Release en progreso y filtradas por algún topic:
 
