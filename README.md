@@ -106,16 +106,15 @@ Como vemos en la imagen las 13 tareas de la Realase 2 estan en el apartado Sprin
 ## Tareas de la 2da Release en progreso y filtradas por algún topic:
 Vamos a realizar el filtado por el topic setup, ya que es uno de los topic más utilizados en el Realase 2.
 
-
 <img src= https://github.com/user-attachments/assets/5b4aeae2-1f86-4648-993a-5983be2eed63>
+
 Para que se vea mejor también, vamos a seleccionar el filtrado por Realase 2.
 
 
 ![image](https://github.com/user-attachments/assets/2ed0d7cd-f83f-4d11-bcb6-d9b0a07a57ff)
+
 Con este filtado el progreso de la segunda Realase quedaría así:
 
 ![image](https://github.com/user-attachments/assets/2236d88e-d7a8-4172-9f60-5310c8d8ad62)
-
-
 
 ## Imagen de conversación en dos tareas:
