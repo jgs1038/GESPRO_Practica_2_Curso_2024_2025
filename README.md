@@ -93,39 +93,38 @@ Una vez realizados los pasos anteriores, ya deberíamos ser capaces de trabajar 
 ## Comienzo de la 2da Release
 
 ### Movemos todas las tareas de la Release 2 a la columna de Sprint Backlog
-Para ver solo las tareas de la Realase 2, de forma que se puedan ver sin confundirse con las de las otras dos Realases, vamos a usar el filtro por Realase. 
-En este filtro seleccionamos la opción Realase 2.
+Para ver solo las tareas de la Release 2, de forma que se puedan ver sin confundirse con las de las otras dos Realases, vamos a usar el filtro por Realase. 
+En este filtro seleccionamos la opción Release 2.
 
 ![image](https://github.com/user-attachments/assets/0860e9c3-66bd-45b6-93a4-13ef4da44292)
 
 ![image](https://github.com/user-attachments/assets/a4dc9427-7191-4251-b4cb-77901ec12d2c)
 
-Como vemos en la imagen las 13 tareas de la Realase 2 estan en el apartado Sprint Backlog.
+Como vemos en la imagen las 13 tareas de la Release 2 estan en el apartado Sprint Backlog.
 
 
 ## Tareas de la 2da Release en progreso y filtradas por algún topic:
-Vamos a realizar el filtado por el topic setup, ya que es uno de los topic más utilizados en el Realase 2.
+Vamos a realizar el filtado por el topic setup, ya que es uno de los topic más utilizados en el Release 2.
 
 <img src= https://github.com/user-attachments/assets/5b4aeae2-1f86-4648-993a-5983be2eed63>
 
-Para que se vea mejor también, vamos a seleccionar el filtrado por Realase 2.
-
+Para que se vea mejor también, vamos a seleccionar el filtrado por Release 2.
 
 ![image](https://github.com/user-attachments/assets/2ed0d7cd-f83f-4d11-bcb6-d9b0a07a57ff)
 
-Con este filtado el progreso de la segunda Realase quedaría así:
+Con este filtrado el progreso de la segunda Release quedaría así:
 
 ![image](https://github.com/user-attachments/assets/2236d88e-d7a8-4172-9f60-5310c8d8ad62)
 
 ## Imagen de conversación en dos tareas:
 
-Hemos incluido 3 comentarios en tareas de la Realese 1, 2 comentarios en la Realese 2 y 2 comenatrios en la Realese 3.
+Hemos incluido 3 comentarios en tareas de la Release 1, 2 comentarios en la Release 2 y 2 comentarios en la Release 3.
 
-Las tarea de Realese 1 con comentarios son: View transaction history, Transfer money, Get account details.
+Las tarea de Release 1 con comentarios son: View transaction history, Transfer money, Get account details.
 
-Las tareas de Realase 2 con comentarios son: Set up automatic payment, Manage from Android Device. 
+Las tareas de Release 2 con comentarios son: Set up automatic payment, Manage from Android Device. 
 
-Las tareas de Realase 3 con comentarios son: Custom notifications, Export information to PDF.
+Las tareas de Release 3 con comentarios son: Custom notifications, Export information to PDF.
 
 Vamos a mostrar dos ejemplo de estas conversaciones:
 
