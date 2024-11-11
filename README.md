@@ -8,9 +8,14 @@ Guía de cómo pueden comenzar los usuarios a interactuar con el proyecto. Fase 
  
 Filtro por Epics, US y Tasks en la columna de New Issues:
 
-Tareas de 1er Release en el Sprint Backlog (5%)
-Tareas de 1er Release en progreso en diferentes columnas ( solo se mueven las type: TASKS) (10%)
-Cierre de 1er Release (5%)
-Comienzo de la 2da Release (10%)
-Tareas de la 2da Release en progreso y filtradas por algún topic (15%)
-Imagen de conversación en dos tareas (10%)
+Tareas de 1er Release en el Sprint Backlog:
+
+Tareas de 1er Release en progreso en diferentes columnas ( solo se mueven las type: TASKS):
+
+Cierre de 1er Release:
+
+Comienzo de la 2da Release:
+
+Tareas de la 2da Release en progreso y filtradas por algún topic:
+
+Imagen de conversación en dos tareas:
