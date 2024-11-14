@@ -116,7 +116,7 @@ Con este filtrado el progreso de la segunda Release quedaría así:
 
 ![image](https://github.com/user-attachments/assets/2236d88e-d7a8-4172-9f60-5310c8d8ad62)
 
-## Imagen de conversación en dos tareas:
+## Imagen de conversación en dos tareas
 
 Hemos incluido 3 comentarios en tareas de la Release 1, 2 comentarios en la Release 2 y 2 comentarios en la Release 3.
 
