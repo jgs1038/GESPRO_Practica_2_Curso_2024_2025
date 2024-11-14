@@ -128,11 +128,11 @@ Las tareas de Release 3 con comentarios son: Custom notifications, Export inform
 
 Vamos a mostrar dos ejemplo de estas conversaciones:
 
-Esta seria el caso de la tarea View transaction history
+Esta seria el caso de la tarea View transaction history:
 
 ![image](https://github.com/user-attachments/assets/396db087-b9a1-4aef-941c-0ca6160b80e7)
 
-Esta seria el caso de Custom notifications
+Esta seria el caso de Custom notifications:
 
 ![image](https://github.com/user-attachments/assets/46f87c31-67be-462e-bc3f-aa9960095d56)
 
