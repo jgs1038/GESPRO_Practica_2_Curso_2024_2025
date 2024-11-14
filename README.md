@@ -126,7 +126,7 @@ Las tareas de Release 2 con comentarios son: Set up automatic payment, Manage fr
 
 Las tareas de Release 3 con comentarios son: Custom notifications, Export information to PDF.
 
-Vamos a mostrar dos ejemplo de estas conversaciones:
+Vamos a mostrar dos ejemplos de estas conversaciones:
 
 Esta seria el caso de la tarea View transaction history:
 
