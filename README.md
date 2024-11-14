@@ -103,7 +103,7 @@ En este filtro seleccionamos la opción Release 2.
 Como vemos en la imagen las 13 tareas de la Release 2 estan en el apartado Sprint Backlog.
 
 
-## Tareas de la 2da Release en progreso y filtradas por algún topic:
+## Tareas de la 2da Release en progreso y filtradas por algún topic
 Vamos a realizar el filtado por el topic setup, ya que es uno de los topic más utilizados en el Release 2.
 
 <img src= https://github.com/user-attachments/assets/5b4aeae2-1f86-4648-993a-5983be2eed63>
