@@ -65,9 +65,11 @@ Una vez realizados los pasos anteriores, ya deberíamos ser capaces de trabajar 
 
 ## Tareas de 1er Release en progreso en diferentes columnas
 
-### Las distintas tareas de la Release 1 en las diferentes columnas de progreso   
+### Las distintas tareas de la Release 1 en las diferentes columnas de progreso 
 
 <img width="960" alt="firefox_KAwKQI8uoC" src="https://github.com/user-attachments/assets/8b5425fd-29f8-4f80-898c-ea5ef01192bb">
+
+En caso que quisieramos hacerlo desde gitHub no habria problemas ya que se haria de la misma forma
 
 ## Cierre de 1er Release
 
