@@ -38,6 +38,10 @@ Una vez realizados los pasos anteriores, ya deberíamos ser capaces de trabajar 
  
 ## Filtro por Epics, US y Tasks en la columna de New Issues
 
+Para poder filtrarlas deben estar creadas, en nuestro caso han sido creadas mientras creabamos las issues, y despues desde  github  vamos a issues  --> Labels  y aqui podremos ver las diferentes 
+etiquetas:
+
+
 ### Se accede a la columna de issues en Github   
 > Dado que ya hemos movido los issues a la columna de product backlog, haremos el filtro desde Github en lugar de Zenhub.   
 
