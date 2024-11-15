@@ -76,6 +76,7 @@ En caso que quisieramos hacerlo desde gitHub no habria problemas ya que se haria
 ### Todas las tareas de la Release 1 se colocan en la columna Done
 
 ![imagen](https://github.com/user-attachments/assets/64531f75-0737-41dd-8b32-45ce8462dbc0)
+Esto significa que estan acabadas y deberiamos mirar si esta tareas se pueden pasar a cerrado o debemos volver a moverlas a columnas anteriores
 
 ### Damos por concluidas todas las tareas de la Release 1
 
