@@ -38,9 +38,12 @@ Una vez realizados los pasos anteriores, ya deberíamos ser capaces de trabajar 
  
 ## Filtro por Epics, US y Tasks en la columna de New Issues
 
-Para poder filtrarlas deben estar creadas, en nuestro caso han sido creadas mientras creabamos las issues, y despues desde  github  vamos a issues  --> Labels  y aqui podremos ver las diferentes 
-etiquetas:
+Para poder filtrarlas deben estar creadas, en nuestro caso han sido creadas mientras creabamos las issues, y despues desde  github le hemos asignado un color para ello  vamos a issues  --> Labels  y aqui podremos ver las diferentes etiquetas:
+![image](https://github.com/user-attachments/assets/161fb7cc-920a-4a20-86e7-aab5241ffa74)
 
+Las Epics tienen asociado el color rojo, las US el color naranja y las task de color amarillo.
+
+Luego las etiquetas de los topics de las task tienen asociado el color morado
 
 ### Se accede a la columna de issues en Github   
 > Dado que ya hemos movido los issues a la columna de product backlog, haremos el filtro desde Github en lugar de Zenhub.   
